@@ -1,0 +1,1 @@
+# a-python-template-for-python-class
